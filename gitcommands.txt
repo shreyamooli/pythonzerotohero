@@ -1,0 +1,9 @@
+git remote add origin https://github.com/shreyamooli/pythonzero…
+git remote set-url origin https://github.com/shreyamooli/python…
+git status
+git add .
+git commit -m "python"
+git push
+git remote -v
+git push origin master
+
