@@ -7,3 +7,5 @@ git push
 git remote -v
 git push origin master
 
+-----------------------------------------------------------------------
+git pull origin master #pull github content to local
